@@ -1,21 +1,24 @@
-# valid
+# Форма валидации на Vue
+### Используемые технологии: 
+#### *Bootstrap 4 | Vuelidate | vue-imask*
+<img src="src/assets/demo.gif">
 
-## Project setup
-```
+## Установка проекта
+___
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Запуск проекта в режиме разработки
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Компилирует и минимизирует для продакшина
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### Запуск ESLint
 ```
 npm run lint
 ```
